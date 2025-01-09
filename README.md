@@ -1,6 +1,6 @@
 #Netflix Data Analysis
 
-![Netflix logo]()
+![Netflix logo](https://github.com/InsightsUnlocked/netflix_sql_project/blob/main/Netflix_logo.png)
 
 This repository contains an SQL-based project focused on analyzing Netflix content data. The project demonstrates practical SQL skills, including table creation, data manipulation, and solving real-world business problems.
 
