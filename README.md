@@ -1,4 +1,7 @@
-Netflix Data Analysis
+#Netflix Data Analysis
+
+![Netflix logo]()
+
 This repository contains an SQL-based project focused on analyzing Netflix content data. The project demonstrates practical SQL skills, including table creation, data manipulation, and solving real-world business problems.
 
 Features:
